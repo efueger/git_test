@@ -1,0 +1,1 @@
+This is not Emily's first git project :)
